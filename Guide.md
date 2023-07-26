@@ -1,7 +1,7 @@
 <h1 align="center">Steps to post your solutions</h1>
 
 ### In order to sumbit the solution to the respective questions, you need to follow the following steps.
-<div background= "red">
+<div background="red">
 1. Firstly, you need to clone the repository **Competitive-Programming-and-DSA** in your local machine.
 2. Before doing any changes to the repo, create your own branch so that it will be easy for us to maintain.
 2. Every week we'll be posting 6-7 questions inside the **/Questions** folder inside the **questions.md** file.
