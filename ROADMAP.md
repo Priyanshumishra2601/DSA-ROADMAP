@@ -1,5 +1,5 @@
 
-<img  src="https://media.istockphoto.com/id/1311598658/photo/businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept.jpg?s=1024x1024&w=is&k=20&c=JZprgGDQ8xqa6iu0fyKJfKOlAvae0w9U-AdHeCT2kg4=" width="100%">
+<img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codelivly.com%2Fcomplete-roadmap-to-learn-data-structure-and-algorithms%2F&psig=AOvVaw2CV3CvUAOfv9h-QC7YuM1V&ust=1690440152451000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjq0sXiq4ADFQAAAAAdAAAAABAE" width="100%">
 
 1. [Introduction to Git](https://www.youtube.com/watch?v=apGV9Kg7ics)
 2. Introduction to Programming
